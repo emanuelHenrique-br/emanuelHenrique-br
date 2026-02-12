@@ -4,7 +4,7 @@
 
 ### 🎓 Ciência da Computação @ UTFPR
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Estudante+apaixonado+por+tech;Java+%7C+C%2B%2B+%7C+Web" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Front-end+Developer;Estudante+UTFPR;Java+%7C+C%2B%2B+%7C+Web" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -18,12 +18,12 @@
 
 </div>
 
-Sou o **Emanuel**, tenho **22 anos** e estou na reta final da graduação (**8º período**) de **Ciência da Computação** na **UTFPR** (Universidade Tecnológica Federal do Paraná).
+Sou o **Emanuel**, tenho **22 anos** e estou na reta final da graduação (**8º período**) de **Ciência da Computação** na **UTFPR**.
 
 Meu foco principal é o **Desenvolvimento Front-end**, onde gosto de unir design e lógica para criar experiências fluidas. Além da web, tenho uma base sólida em linguagens de baixo e alto nível adquirida na universidade.
 
 * 🔭 **Atualmente estudando:** Arquitetura de Software e Frameworks Modernos.
-* 💻 **Áreas de interesse:** Web Design, UX/UI, Sistemas Distribuídos.
+* 💻 **Áreas de interesse:** Web Design, UX/UI.
 * ⚡ **Curiosidade:** Adoro entender como as coisas funcionam "debaixo do capô" com C++.
 
 ---
@@ -53,8 +53,8 @@ Meu foco principal é o **Desenvolvimento Front-end**, onde gosto de unir design
 
 ### 📫 Vamos conversar?
 
-<a href="mailto:seuemail@exemplo.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:emanuelmacedo@alunos.utfpr.edu.br">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/seu-linkedin/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
