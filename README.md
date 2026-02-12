@@ -23,7 +23,7 @@ Sou o **Emanuel**, tenho **22 anos** e estou na reta final da graduação (**8º
 Meu foco principal é o **Desenvolvimento Front-end**, onde gosto de unir design e lógica para criar experiências fluidas. Além da web, tenho uma base sólida em linguagens de baixo e alto nível adquirida na universidade.
 
 * 🔭 **Atualmente estudando:** Arquitetura de Software e Frameworks Modernos.
-* 💻 **Áreas de interesse:** Web Design, UX/UI.
+* 💻 **Áreas de interesse:** Web Design, Estrutura de Dados.
 * ⚡ **Curiosidade:** Adoro entender como as coisas funcionam "debaixo do capô" com C++.
 
 ---
