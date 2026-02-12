@@ -40,24 +40,4 @@ Meu foco principal é o **Desenvolvimento Front-end**, onde gosto de unir design
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<br/><br/>
-
-### 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight"/>
-</div>
-
-<br/>
-
-### 📫 Vamos conversar?
-
-<a href="mailto:emanuelmacedo@alunos.utfpr.edu.br">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/seu-linkedin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 </div>
